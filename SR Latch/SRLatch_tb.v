@@ -37,6 +37,6 @@ module SRLatch_tb;
             #20 r = ~r;
         end
      initial
-        #100 $finish ;
+        #120 $finish ;
         
 endmodule
